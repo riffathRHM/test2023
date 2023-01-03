@@ -10,7 +10,7 @@ class sum
 =======
         int c =6;
 >>>>>>> 047f0e744fc8168da636f891235fa596d82ce901
-        System.out.println(a+b);
+        System.out.println(a+b+c+d);
         System.out.println("sum");
         
     }
