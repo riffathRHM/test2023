@@ -4,7 +4,7 @@ class sum
     {
         int a =5;
         int b =2;
-
+        // git stach
         int c = 6;
         int d = 7;
 
